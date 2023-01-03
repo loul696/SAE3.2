@@ -1,0 +1,10 @@
+Informations complémentaires :
+
+Certaines commandes ne sont pas interpretées dans le code,
+pour des raisons ou je n'arrivais pas à les faires fonctionnées
+
+Commandes manquantes : 
+
+Mkdir
+ls-la
+get-process
